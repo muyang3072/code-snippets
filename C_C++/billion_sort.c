@@ -9,7 +9,7 @@ int cmp(const void *a,const void *b)
 
 int qsort_version()
 {
-    //随机产生10亿个数
+    //随机产生1亿个数
     clock_t start,end;
     double Total_time;
     start = clock();
