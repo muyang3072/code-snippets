@@ -17,7 +17,3 @@ struct ListNode* reverseList(struct ListNode* head){
     }
     return new_head;
 }
-
-struct ListNode* recurReverseList(struct ListNode* head,ListNode* & new_head){
-
-}
